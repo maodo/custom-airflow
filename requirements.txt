@@ -79,6 +79,7 @@ mdurl==0.1.2
 methodtools==0.4.7
 more-itertools==10.6.0
 multidict==6.1.0
+numpy==2.2.2
 opentelemetry-api==1.29.0
 opentelemetry-exporter-otlp==1.29.0
 opentelemetry-exporter-otlp-proto-common==1.29.0
@@ -89,6 +90,7 @@ opentelemetry-sdk==1.29.0
 opentelemetry-semantic-conventions==0.50b0
 ordered-set==4.1.0
 packaging==24.2
+pandas==2.2.3
 pathspec==0.12.1
 pendulum==3.0.0
 pluggy==1.5.0
